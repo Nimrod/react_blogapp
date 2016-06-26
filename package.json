@@ -1,0 +1,22 @@
+{
+  "name": "react_blogapp",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Nimrod/react_blogapp.git"
+  },
+  "author": "nimrod bar-on",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Nimrod/react_blogapp/issues"
+  },
+  "homepage": "https://github.com/Nimrod/react_blogapp#readme",
+  "dependencies": {
+    "express": "^4.14.0"
+  }
+}
